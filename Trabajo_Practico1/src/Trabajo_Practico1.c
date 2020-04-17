@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "operaciones.h"
 
+
 int main(void) {
 
 	int num1;
